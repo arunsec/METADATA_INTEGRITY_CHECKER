@@ -17,7 +17,7 @@ A Python/Tkinter GUI that looks for signs that an image or its metadata has been
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/image-integrity-checker.git
+git clone https://github.com/arunsec/image-integrity-checker.git
 cd image-integrity-checker
 pip install -r requirements.txt
 ```
